@@ -1,22 +1,6 @@
 webassets-react
 ===============
 
-.. image:: https://pypip.in/py_versions/webassets-react/badge.svg
-    :target: https://pypi.python.org/pypi/webassets-react/
-    :alt: Supported Python versions
-
-..  image:: https://pypip.in/status/webassets-react/badge.svg
-    :target: https://pypi.python.org/pypi/webassets-react/
-    :alt: Development Status
-
-.. image:: https://pypip.in/version/webassets-react/badge.svg
-    :target: https://pypi.python.org/pypi/webassets-react/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/license/webassets-react/badge.svg
-    :target: https://pypi.python.org/pypi/webassets-react/
-    :alt: License
-
 Overview
 --------
 
@@ -33,7 +17,7 @@ Installation
 
 The quick way ::
 
-    $ pip install react
+    $ pip install webassets-react
 
 
 Resources
