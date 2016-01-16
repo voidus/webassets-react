@@ -1,4 +1,4 @@
-PyExecJS==1.1.0
-PyReact==0.5.2
-webassets==0.10.1
-wsgiref==0.1.2
+PyExecJS~=1.1
+PyReact~=0.5
+webassets~=0.11
+wsgiref~=0.1
